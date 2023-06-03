@@ -116,3 +116,5 @@ For the printer to work, the Laptop and the printer must be connected to the sam
 The Laptop should recognize the printer automatically, as this printer is setup to be the default photo printer.
 
 # Troubleshooting / Problem solving
+
+If you don't know what to do, please do not try around, but contact Ben!
