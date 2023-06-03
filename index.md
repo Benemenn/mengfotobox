@@ -95,15 +95,16 @@ Please make sure, that you have gotten all the necessary hardware from Ben!
 - if you have the photo printer, set it up near the Laptop
 - Connect the Laptop to Power
 - Connect the Camera via USB-C to the Laptop
- ##### Lights 
- - Unpack the lights
- - Extend the tripods
- - Take the Lightbulbs
- - Open the umbrellas, push the middle part over the socket of the bulb
- - Screw in the lightbulbs
- - Pull the white cloth over all 4 edges of the umbrella
- - Mount the umbrella on top of the tripod, be sure to fasten the screws firmly
- - adjust the height of the lights as needed!
+
+##### Lights 
+- Unpack the lights
+- Extend the tripods
+- Take the Lightbulbs
+- Open the umbrellas, push the middle part over the socket of the bulb
+- Screw in the lightbulbs
+- Pull the white cloth over all 4 edges of the umbrella
+- Mount the umbrella on top of the tripod, be sure to fasten the screws firmly
+- adjust the height of the lights as needed!
 
 #### 2. Set up the software
 
