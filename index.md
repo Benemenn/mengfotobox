@@ -2,6 +2,25 @@
 
 This page shows my DIY-project of a photobooth.
 
+## Contents
+
+1. [Information](#information)
+2. [MengFotobox1.0](#mengfotobox10)
+3. [MengFotobox2.0](#mengfotobox20)
+4. [MengFotobox3.0](#mengfotobox30-current-setup)
+    1. [Hardware](#hardware)
+    2. [Layouts](#layouts)
+5. [How-To](#how-to)
+    1. [Hardware](#hardware-setup)
+        1. [MengFotobox2.0](#for-mengfotobox20-ipad)
+        2. [MengFotobox3.0](#for-mengfotobox30-computer-based)
+6. [Troubleshooting](#troubleshooting--problem-solving)
+
+<p>
+    <br>
+    <br>
+</p>
+
 ## Information
 
 *MengFotobox* is a private DIY project of Ben Cloos. The project consists of a DYI photobooth, parties, marriages, birthdays, hollidays or other events. 
@@ -69,7 +88,7 @@ If you have more ideas for nice designs, feel free to contact me at [mengfotobox
 
 This section will describe the steps that are needed to set up the photobooth at your event, in case Ben is not there to do if for you!
 
-## Hardware
+## Hardware Setup
 
 Please make sure, that you have gotten all the necessary hardware from Ben!
 
