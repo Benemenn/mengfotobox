@@ -52,4 +52,11 @@ All Layouts can be found in github under [assets](https://github.com/Benemenn/me
 
 The layouts can be determined easily `<number_of_photos>_<rotation>_<name_of_Design>.png`
 
+Here are some examples. The grey areas will be filled with the photos taken by the photobooth.
+
+#### 1 Landscape simple Birthday
+
+![1_ls_simple_Birthday](assets/images/photoLayouts/LandScape/1_ls_simple_Birthday.png)
+
+
 If you have more ideas for nice designs, feel free to contact me at [mengfotobox@gmail.com](mailto:mengfotobox@gmail.com)
