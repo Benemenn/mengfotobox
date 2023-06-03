@@ -33,5 +33,23 @@ This version of *MengFotobox* worked well for several years, until some iPadOS a
 
 In April 2023, the next version of *MengFotobox* started development. 
 iPads are expensive, even when they are bought used, so the decision was made to change to a computer-based system. The software [Sparkbooth](https://sparkbooth.com/) offers a comnputer-based solution as a photobooth application.
-Although the application is not cheap at a pricetag of 150€ for the DSLR version, this software was the most suiting one, because of the one-time fee.
+Although the application is not cheap at a pricetag of 150€ for the DSLR version, this software was the most suiting one, because of the one-time fee. Furthermore the Photobooth was extended by a photoprinter from Canon. 
 
+### Hardware
+
+* Canon Eos RP mirrorless camera
+* Canon 24-70mm f/4 L-series or Canon 50mm f/1.8 
+* [Neewer Softlights](https://www.amazon.de/-/en/gp/product/B01CVGWALM/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+* Tripod
+* Canon Selphy CP1500 Photo printer
+
+### Layouts
+
+Sparkbooth offers the possibility to choose different picture styles and layout for your event.
+I created some layouts with some optios for different occasions. The Layouts always have a corresponding .txt file, where attribution for used graphics are marked.
+
+All Layouts can be found in github under [assets](https://github.com/Benemenn/mengfotobox/tree/gh-pages/assets/images/photoLayouts)
+
+The layouts can be determined easily `<number_of_photos>_<rotation>_<name_of_Design>.png`
+
+If you have more ideas for nice designs, feel free to contact me at [mengfotobox@gmail.com](mailto:mengfotobox@gmail.com)
