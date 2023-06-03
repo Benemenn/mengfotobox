@@ -1,3 +1,3 @@
 # MengFotobox
 
-[Documentation here](https://www.benemenn.github.io/mengfotobox)
+[Documentation here](https://benemenn.github.io/mengfotobox/)
