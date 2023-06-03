@@ -95,6 +95,15 @@ Please make sure, that you have gotten all the necessary hardware from Ben!
 - if you have the photo printer, set it up near the Laptop
 - Connect the Laptop to Power
 - Connect the Camera via USB-C to the Laptop
+ ##### Lights 
+ - Unpack the lights
+ - Extend the tripods
+ - Take the Lightbulbs
+ - Open the umbrellas, push the middle part over the socket of the bulb
+ - Screw in the lightbulbs
+ - Pull the white cloth over all 4 edges of the umbrella
+ - Mount the umbrella on top of the tripod, be sure to fasten the screws firmly
+ - adjust the height of the lights as needed!
 
 #### 2. Set up the software
 
@@ -106,7 +115,7 @@ Please make sure, that you have gotten all the necessary hardware from Ben!
 
 #### 3. Set up the printer (optional)
 
-For the printer to work, the Laptop and the printer must be connected to the same internet network.
+For the printer to work, the Laptop and the printer must be connected to the same internet network. *Please be aware that Ben will **provide** the paper for the photos, but is happy to get **financial support** for these recurring expenses.*
 
 - connect the printer to power
 - insert the photo tray (see manual if needed)
@@ -114,6 +123,19 @@ For the printer to work, the Laptop and the printer must be connected to the sam
 - connect the printer to the same internet network as the laptop, by accessing the WiFi settings
 
 The Laptop should recognize the printer automatically, as this printer is setup to be the default photo printer.
+
+#### 4. Have fun!
+
+Normally, Ben has made all necessary settings regarding your event, respecting your wishes.
+
+Your photos can be printed and sent via email!
+
+Most importantly, **HAVE FUN**
+
+
+
+
+
 
 # Troubleshooting / Problem solving
 
