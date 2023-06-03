@@ -60,6 +60,9 @@ Here are some examples. The grey areas will be filled with the photos taken by t
 #### 3 Landscape Birthday
 ![3_ls_Birthday](assets/images/photoLayouts/LandScape/3_ls_Birthday.png)
 
+#### 1 Landscape Jeep enthousiast Birthday
+![1_ls_jeep_birthday](assets/images/photoLayouts/LandScape/1_ls_Jeff_50_1.png)
+
 If you have more ideas for nice designs, feel free to contact me at [mengfotobox@gmail.com](mailto:mengfotobox@gmail.com)
 
 # How-To 
