@@ -8,7 +8,7 @@ This page shows my DIY-project of a photobooth.
 This project was started in 2018. Professional Photobooths for such events are usually costly, although very easy to handle.
 The goal of this project is, to create a low-cost, photobooth station, where the only recurring costs would be the photopaper for when pictures want to be printed out directly.
 
-## MengFotoboy1.0
+## MengFotobox1.0
 
 In the beginning of this project, the first approach was very simple. The used hardware was the following:
 * Laptop with the software [DSLRBooth](https://dslrbooth.com/)
@@ -21,7 +21,7 @@ The laptop was put on a high table, the camera behind it on a tripod. Very easy 
 
 In this version of the project, the processing unit of the photobooth was changed completely. The Laptop was changed with an iPad Mini.
 Hard- and Software:
-* iPad Mini with the software [WiFiBooth](www.wifibooth.com)
+* iPad Mini with the software [WiFiBooth](https:www.wifibooth.com)
 * DSLR Camera (in this case [Canon 7Dmkii](https://www.canon.de/for_home/product_finder/cameras/digital_slr/eos_7d_mark_ii/))
 * Cables
 * Aluminium Box, with cutouts for iPad and DSLR inside -> [Link](https://www.printables.com/model/64961-diy-photobooth) 
