@@ -55,8 +55,64 @@ The layouts can be determined easily `<number_of_photos>_<rotation>_<name_of_Des
 Here are some examples. The grey areas will be filled with the photos taken by the photobooth.
 
 #### 1 Landscape simple Birthday
-
 ![1_ls_simple_Birthday](assets/images/photoLayouts/LandScape/1_ls_simple_Birthday.png)
 
+#### 3 Landscape Birthday
+![3_ls_Birthday](assets/images/photoLayouts/LandScape/3_ls_Birthday.png)
 
 If you have more ideas for nice designs, feel free to contact me at [mengfotobox@gmail.com](mailto:mengfotobox@gmail.com)
+
+# How-To 
+
+This section will describe the steps that are needed to set up the photobooth at your event, in case Ben is not there to do if for you!
+
+## Hardware
+
+Please make sure, that you have gotten all the necessary hardware from Ben!
+
+### For *MengFotobox*2.0 (iPad):
+* iPad Mini with the software [WiFiBooth](https:www.wifibooth.com)
+* Canon 7D mk2 Camera
+* Charging block for the camera
+* Charging cable and Power Supply for the iPad
+* Aluminium Box
+* Softbox Lights
+
+### For *MengFotobox*3.0 (Computer-based)
+* Computer -> Ben's MacBook Pro
+* Canon EOS RP Camera
+* Charging block for the camera
+* 3 USB-C to USB-C cables
+* Power Cables for charging the mac
+* Tripod 
+* Softbox Lights
+
+#### 1. Set up the hardware
+
+- Make sure that all the needed hardware is there, if not, please contact Ben via [mail](mailto:mengfotobox@gmail.com) or mobile phone!
+- Set up the Laptop on a high Table
+- Set up the Camera on a tripod and put it behind the Laptop
+- if you have the photo printer, set it up near the Laptop
+- Connect the Laptop to Power
+- Connect the Camera via USB-C to the Laptop
+
+#### 2. Set up the software
+
+- Power on the Laptop and the camera (wheel on the right side of the camera)
+- On the Laptop choose BOOTCAMP/WINDOWS on startup (Ben will have provided you with the access code)
+- Connect the Laptop to the internet (if possible)
+- Open the software **Sparkbooth** by double-clicking on the yellow icon on the left side.
+- The software should recognize the camera directly
+
+#### 3. Set up the printer (optional)
+
+For the printer to work, the Laptop and the printer must be connected to the same internet network.
+
+- connect the printer to power
+- insert the photo tray (see manual if needed)
+- hold the on button to power the printer on
+- connect the printer to the same internet network as the laptop, by accessing the WiFi settings
+
+The Laptop should recognize the printer automatically, as this printer is setup to be the default photo printer.
+
+# Troubleshooting / Problem solving
