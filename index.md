@@ -141,7 +141,7 @@ Please make sure, that you have gotten all the necessary hardware from Ben!
 For the printer to work, the Laptop and the printer must be connected to the same internet network. *Please be aware that Ben will **provide** the paper for the photos, but is happy to get **financial support** for these recurring expenses.*
 
 - connect the printer to power
-- insert the photo tray (see manual if needed)
+- insert the photo tray (see [manual](https://cam.start.canon/de/P001/manual/html/UG-01_Preparations_0030.html) if needed) 
 - hold the on button to power the printer on
 - connect the printer to the same internet network as the laptop, by accessing the WiFi settings
 
